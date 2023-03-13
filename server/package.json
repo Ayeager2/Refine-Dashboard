@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
+  "node_version": "14.17.0",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
